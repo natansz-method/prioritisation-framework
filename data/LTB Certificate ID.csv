@@ -1,0 +1,14 @@
+﻿"Level","Certificate Name","Products","Training Group"
+"3","HPL - B/LTB - E - Level 3 – Installation & Commissioning","BLG1002A,HPL B1 (Single motion 1-Pole 170-300kV),HPL B1 (Single motion 3-Pole 170-300kV),HPL B2/B4 (Single motion 1-Pole 300-1200kV),LTB E1 (Single motion 3-Pole 170-245kV),LTB E2 (Single Motion 1-pole 300-420kV)","01"
+"4","HPL - B/LTB - E - Level 4 – Extended maintenance (Repair and/or Overhaul)","BLG1002A,HPL B1 (Single motion 1-Pole 170-300kV),HPL B1 (Single motion 3-Pole 170-300kV),HPL B2/B4 (Single motion 1-Pole 300-1200kV),LTB E1 (Single motion 3-Pole 170-245kV),LTB E2 (Single Motion 1-pole 300-420kV)","01"
+"3","LTB - D/E (Single motion) - Level 3 – Installation & Commissioning","BLK222,LTB D1 (Single motion 1-Pole 72,5-170kV),LTB D1 (Single motion 3-Pole 72,5-170kV),LTB E1 (Single motion 3-Pole 170-245kV),LTB E1 (Single motion 1-Pole 170-245kV)","02"
+"4","LTB - D/E (Single motion)- Level 4 – Extended maintenance (Repair and/or Overhaul)","BLK222,LTB D1 (Single motion 1-Pole 72,5-170kV),LTB D1 (Single motion 3-Pole 72,5-170kV),LTB E1 (Single motion 1-Pole 170-245kV),LTB E1 (Single motion 3-Pole 170-245kV)","02"
+"3","LTB - D/E (Double motion) - Level 3 – Installation & Commissioning","FSA,LTB D1 (Double motion 1-Pole 72,5-170kV),LTB E1 (Double motion 1-Pole 170-245kV),MSD1","03"
+"4","LTB - D/E (Double motion)- Level 4 – Extended maintenance (Repair and/or Overhaul)","FSA,LTB D1 (Double motion 1-Pole 72,5-170kV),LTB E1 (Double motion 1-Pole 170-245kV),LTB E2 (Double motion 1-Pole >245kV)","03"
+"3","LTA/LTB - Level 3 – Installation & Commissioning","LTA (Double motion 3-pole 72,5kV),MSD1,MSD2,LTB D1 (Double motion 1-Pole 72,5-170kV),LTB E2 (Double motion 1-Pole >245kV)","04"
+"4","LTA/LTB - Level 4 – Extended maintenance (Repair and/or Overhaul)","LTA (Double motion 3-pole 72,5kV),MSD1,LTB D1 (Double motion 1-Pole 72,5-170kV),MSD2,LTB E2 (Double motion 1-Pole >245kV)","04"
+"4","Level 4 – Onsite Trainer / Assessor","[]",
+"5","Level 5 – Field Service Product Expert","[]",
+"5","Trainer (for internal trainings Level 3 and Level 4)","[]",
+"3","LTB D - Level 3 - Installation & Commissioning","LTB D1 (Single motion 1-Pole 72,5-170kV),LTB D1 (Single motion 3-Pole 72,5-170kV),MD 150/300 (Motor Drive)",
+"4","LTB D - Level 4 - Extended maintenance (Repair and/or Overhaul)","LTB D1 (Single motion 1-Pole 72,5-170kV),LTB D1 (Single motion 3-Pole 72,5-170kV),MD 150/300 (Motor Drive)",
